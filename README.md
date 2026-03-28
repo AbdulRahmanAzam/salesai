@@ -6,6 +6,10 @@
 
 **Track:** Hard
 
+### Demo
+
+[[Link to demo video]](https://youtu.be/_XkuIMCGghE)
+
 ### Problem statement
 
 B2B sales teams waste hours manually prospecting, researching leads, writing personalised outreach, and tracking responses across disconnected tools. SalesFlow AI automates the entire sales intelligence pipeline end-to-end — from lead discovery to follow-up — using cooperating AI agents that work on free/freemium APIs, making it accessible to startups with near-zero budget.
@@ -93,9 +97,7 @@ cd frontend && npm install && npm run dev
 
 Open `http://localhost:5173` to view the pipeline dashboard.
 
-### Demo
 
-[Link to demo video]
 
 ### Tech stack
 
