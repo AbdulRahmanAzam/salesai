@@ -1,0 +1,13 @@
+{
+  "product_name": "Dev-first observability platform",
+  "product_pitch": "We help engineering teams reduce MTTR with alert intelligence and root-cause timelines.",
+  "industries": ["SaaS", "Fintech"],
+  "employee_ranges": ["11,50", "51,200", "201,500"],
+  "locations": ["United States", "Canada"],
+  "persona_titles": ["CTO", "VP Engineering", "Head of Platform", "DevOps Manager"],
+  "tech_stack": ["kubernetes", "datadog", "aws", "terraform"],
+  "keywords": ["incident response", "platform engineering", "site reliability"],
+  "exclude_domains": ["example.com"],
+  "max_companies": 75,
+  "max_contacts": 200
+}
